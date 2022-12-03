@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='has2'/>
+        <page name='Hash1'/>
+        <page name='equatable'/>
+        <page name='equatable2'/>
+        <page name='genericFunc'/>
+        <page name='gnericClass'/>
+        <page name='unicode'/>
+        <page name='Codable'/>
+        <page name='CodableMappingKeys'/>
+        <page name='Error'/>
+    </pages>
+</playground>
